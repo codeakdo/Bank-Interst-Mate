@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		F14F24672E51FE3A005C50C7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F14F24512E51FE37005C50C7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F14F24582E51FE37005C50C7;
+			remoteInfo = "Banka Faiz Bot";
+		};
+		F14F24712E51FE3A005C50C7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F14F24512E51FE37005C50C7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F14F24582E51FE37005C50C7;
+			remoteInfo = "Banka Faiz Bot";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F14F24592E51FE37005C50C7 /* Banka Faiz Bot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Banka Faiz Bot.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F14F24662E51FE3A005C50C7 /* Banka Faiz BotTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Banka Faiz BotTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F14F24702E51FE3A005C50C7 /* Banka Faiz BotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Banka Faiz BotUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		F14F245B2E51FE37005C50C7 /* Banka Faiz Bot */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Banka Faiz Bot";
+			sourceTree = "<group>";
+		};
+		F14F24692E51FE3A005C50C7 /* Banka Faiz BotTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Banka Faiz BotTests";
+			sourceTree = "<group>";
+		};
+		F14F24732E51FE3A005C50C7 /* Banka Faiz BotUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Banka Faiz BotUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F14F24562E51FE37005C50C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F14F24632E51FE3A005C50C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F14F246D2E51FE3A005C50C7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F14F24502E51FE37005C50C7 = {
+			isa = PBXGroup;
+			children = (
+				F14F245B2E51FE37005C50C7 /* Banka Faiz Bot */,
+				F14F24692E51FE3A005C50C7 /* Banka Faiz BotTests */,
+				F14F24732E51FE3A005C50C7 /* Banka Faiz BotUITests */,
+				F14F245A2E51FE37005C50C7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F14F245A2E51FE37005C50C7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F14F24592E51FE37005C50C7 /* Banka Faiz Bot.app */,
+				F14F24662E51FE3A005C50C7 /* Banka Faiz BotTests.xctest */,
+				F14F24702E51FE3A005C50C7 /* Banka Faiz BotUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F14F24582E51FE37005C50C7 /* Banka Faiz Bot */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F14F247A2E51FE3A005C50C7 /* Build configuration list for PBXNativeTarget "Banka Faiz Bot" */;
+			buildPhases = (
+				F14F24552E51FE37005C50C7 /* Sources */,
+				F14F24562E51FE37005C50C7 /* Frameworks */,
+				F14F24572E51FE37005C50C7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				F14F245B2E51FE37005C50C7 /* Banka Faiz Bot */,
+			);
+			name = "Banka Faiz Bot";
+			packageProductDependencies = (
+			);
+			productName = "Banka Faiz Bot";
+			productReference = F14F24592E51FE37005C50C7 /* Banka Faiz Bot.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F14F24652E51FE3A005C50C7 /* Banka Faiz BotTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F14F247D2E51FE3A005C50C7 /* Build configuration list for PBXNativeTarget "Banka Faiz BotTests" */;
+			buildPhases = (
+				F14F24622E51FE3A005C50C7 /* Sources */,
+				F14F24632E51FE3A005C50C7 /* Frameworks */,
+				F14F24642E51FE3A005C50C7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F14F24682E51FE3A005C50C7 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F14F24692E51FE3A005C50C7 /* Banka Faiz BotTests */,
+			);
+			name = "Banka Faiz BotTests";
+			packageProductDependencies = (
+			);
+			productName = "Banka Faiz BotTests";
+			productReference = F14F24662E51FE3A005C50C7 /* Banka Faiz BotTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F14F246F2E51FE3A005C50C7 /* Banka Faiz BotUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F14F24802E51FE3A005C50C7 /* Build configuration list for PBXNativeTarget "Banka Faiz BotUITests" */;
+			buildPhases = (
+				F14F246C2E51FE3A005C50C7 /* Sources */,
+				F14F246D2E51FE3A005C50C7 /* Frameworks */,
+				F14F246E2E51FE3A005C50C7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F14F24722E51FE3A005C50C7 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F14F24732E51FE3A005C50C7 /* Banka Faiz BotUITests */,
+			);
+			name = "Banka Faiz BotUITests";
+			packageProductDependencies = (
+			);
+			productName = "Banka Faiz BotUITests";
+			productReference = F14F24702E51FE3A005C50C7 /* Banka Faiz BotUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F14F24512E51FE37005C50C7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					F14F24582E51FE37005C50C7 = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					F14F24652E51FE3A005C50C7 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = F14F24582E51FE37005C50C7;
+					};
+					F14F246F2E51FE3A005C50C7 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = F14F24582E51FE37005C50C7;
+					};
+				};
+			};
+			buildConfigurationList = F14F24542E51FE37005C50C7 /* Build configuration list for PBXProject "Banka Faiz Bot" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F14F24502E51FE37005C50C7;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = F14F245A2E51FE37005C50C7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F14F24582E51FE37005C50C7 /* Banka Faiz Bot */,
+				F14F24652E51FE3A005C50C7 /* Banka Faiz BotTests */,
+				F14F246F2E51FE3A005C50C7 /* Banka Faiz BotUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F14F24572E51FE37005C50C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F14F24642E51FE3A005C50C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F14F246E2E51FE3A005C50C7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F14F24552E51FE37005C50C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F14F24622E51FE3A005C50C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F14F246C2E51FE3A005C50C7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F14F24682E51FE3A005C50C7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F14F24582E51FE37005C50C7 /* Banka Faiz Bot */;
+			targetProxy = F14F24672E51FE3A005C50C7 /* PBXContainerItemProxy */;
+		};
+		F14F24722E51FE3A005C50C7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F14F24582E51FE37005C50C7 /* Banka Faiz Bot */;
+			targetProxy = F14F24712E51FE3A005C50C7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F14F24782E51FE3A005C50C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = X4284V9WUX;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F14F24792E51FE3A005C50C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = X4284V9WUX;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F14F247B2E51FE3A005C50C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X4284V9WUX;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.codeakdo.Banka-Faiz-Bot";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F14F247C2E51FE3A005C50C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X4284V9WUX;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.codeakdo.Banka-Faiz-Bot";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F14F247E2E51FE3A005C50C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X4284V9WUX;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.codeakdo.Banka-Faiz-BotTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Banka Faiz Bot.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Banka Faiz Bot";
+			};
+			name = Debug;
+		};
+		F14F247F2E51FE3A005C50C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X4284V9WUX;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.codeakdo.Banka-Faiz-BotTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Banka Faiz Bot.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Banka Faiz Bot";
+			};
+			name = Release;
+		};
+		F14F24812E51FE3A005C50C7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X4284V9WUX;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.codeakdo.Banka-Faiz-BotUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Banka Faiz Bot";
+			};
+			name = Debug;
+		};
+		F14F24822E51FE3A005C50C7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X4284V9WUX;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.codeakdo.Banka-Faiz-BotUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Banka Faiz Bot";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F14F24542E51FE37005C50C7 /* Build configuration list for PBXProject "Banka Faiz Bot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F14F24782E51FE3A005C50C7 /* Debug */,
+				F14F24792E51FE3A005C50C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F14F247A2E51FE3A005C50C7 /* Build configuration list for PBXNativeTarget "Banka Faiz Bot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F14F247B2E51FE3A005C50C7 /* Debug */,
+				F14F247C2E51FE3A005C50C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F14F247D2E51FE3A005C50C7 /* Build configuration list for PBXNativeTarget "Banka Faiz BotTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F14F247E2E51FE3A005C50C7 /* Debug */,
+				F14F247F2E51FE3A005C50C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F14F24802E51FE3A005C50C7 /* Build configuration list for PBXNativeTarget "Banka Faiz BotUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F14F24812E51FE3A005C50C7 /* Debug */,
+				F14F24822E51FE3A005C50C7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F14F24512E51FE37005C50C7 /* Project object */;
+}
